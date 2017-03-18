@@ -66,6 +66,5 @@ h.add('sunny',8210445784)
 h.add('katrina',8954145125)
 h.add('hrithik',8602218669)
 
-
 h.print_item()
 
